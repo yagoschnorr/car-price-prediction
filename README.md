@@ -6,6 +6,7 @@ Este projeto consiste em um dashboard interativo desenvolvido com Streamlit para
 
 Objetivos:
 - Analisar e explorar o dataset de preços de revenda de carros.
+- Aplicar testes de hipótese para confirmar ou refutar suposições iniciais.
 - Criar modelos de regressão para prever o preço de revenda de veículos.
 - Criar um dashboard com visualizações interativas para análise exploratória.
 
